@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chupt-employment/precache-manifest.4121de9358fd845da0ce53a3e57ddd56.js"
+  "/chupt-employment/precache-manifest.a293feb284b0abef4fea4e09a96cfff3.js"
 );
 
 workbox.clientsClaim();
